@@ -1,6 +1,8 @@
 # fast-csv-bug
 
-Demo project to reproduce a bug in the open source library Fast-CSV
+Demo project to reproduce a bug in the open source library [Fast-CSV](https://c2fo.github.io/fast-csv/).
+
+👉🏻 See [Fast-CSV issue #784](https://github.com/C2FO/fast-csv/issues/784)
 
 ## Installation
 
