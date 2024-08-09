@@ -1,0 +1,23 @@
+{
+  "name": "fast-csv-bug",
+  "version": "1.0.0",
+  "description": "Demo project to reproduce a bug in the open source library Fast-CSV",
+  "main": "demo.mjs",
+  "scripts": {
+    "demo": "node demo.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahund/fast-csv-bug.git"
+  },
+  "author": "Patrick Hund <patrick.hund@adevinta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pahund/fast-csv-bug/issues"
+  },
+  "homepage": "https://github.com/pahund/fast-csv-bug#readme",
+  "dependencies": {
+    "@fast-csv/format": "^5.0.0"
+  }
+}
